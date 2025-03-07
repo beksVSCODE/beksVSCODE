@@ -1,5 +1,4 @@
-Hi 👋, I'm Beksultan
-[![Header](https://github.com/beksVSCODE/beksVSCODE/blob/main/assets/coding.gif)]
+Header
 
 About me 
 
