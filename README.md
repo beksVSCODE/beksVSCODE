@@ -26,8 +26,8 @@ I am a **Frontend Developer** 🏴‍☠️ from Kyrgyzstan.
   <img src="https://skillicons.dev/icons?i=react,js,ts,redux,mongodb,postgres,nodejs,express,html,css,sass,git,figma" />
 </p>
 
-## 🎯 My Codewars Profile:
+## 🎯 Codewars:
 
 <a href="https://www.codewars.com/users/beksVSCODE" target="_blank">
-  <img src="https://www.codewars.com/users/beksVSCODE" alt="Codewars Stats">
+  <img src="https://www.codewars.com/users/beksVSCODE/badges/large" alt="Codewars Stats">
 </a>
