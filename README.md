@@ -1,4 +1,4 @@
-<img src="https://github.com/beksVSCODE/beksVSCODE/blob/main/assets/coding1.gif" width="300"/>
+<img src="https://github.com/beksVSCODE/beksVSCODE/blob/main/assets/coding.gif" width="400"/>
 
 
 About me 
