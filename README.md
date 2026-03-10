@@ -6,7 +6,7 @@
 ## 📌 About Me :
 
 I am a **Frontend Developer** 🏴‍☠️ from Kyrgyzstan.
-- 🏗️ I have been studying web programming since **2021** for 6 hours a day.  
+- 🏗️ I have been studying web programming since **2024**.  
 
 - 🏗️ I'm working on the **purity of my code**.  
 
